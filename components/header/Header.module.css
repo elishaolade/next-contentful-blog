@@ -1,0 +1,14 @@
+.Header {
+    border-bottom: 1px solid #F2B705;
+    width: 100%;
+}
+
+.flex {
+    display: flex;
+}
+
+.section {
+    flex: 0 0 33.333%;
+    width: 33.333%;
+    padding: 20px;
+}
